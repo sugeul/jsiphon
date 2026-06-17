@@ -38,12 +38,12 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/webtoon-today/jsiphon.git"
+    "url": "git+https://github.com/sugeul/jsiphon.git"
   },
   "bugs": {
-    "url": "https://github.com/webtoon-today/jsiphon/issues"
+    "url": "https://github.com/sugeul/jsiphon/issues"
   },
-  "homepage": "https://github.com/webtoon-today/jsiphon#readme",
+  "homepage": "https://github.com/sugeul/jsiphon#readme",
   "devDependencies": {
     "@types/node": "^25.2.0",
     "esbuild": "^0.27.2",
